@@ -31,4 +31,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It's probably best to do this when working on a new feature or major change to the codebase.
+    It would make sure that changes are isolated from the master branch.
